@@ -1,0 +1,12 @@
+# Build files
+dist/
+
+# Node packages
+node_modules/
+
+# nyc coverage
+.nyc_output/
+coverage/
+
+# npm packs
+**/*.tgz
